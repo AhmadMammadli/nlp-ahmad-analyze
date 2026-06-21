@@ -24,6 +24,14 @@ This project is an end-to-end Natural Language Processing (NLP) system designed 
 3. **Launch the Dashboard:**
    ```bash
    python -m streamlit run app.py
-   
-## Dashboard Screenshot
-![Sentiment Analysis Dashboard](dashboard.png)
+
+## Dashboard Screenshots
+
+### 1. Main Sentiment Analysis Interface
+![Sentiment Analysis Interface](dashboard.png)
+
+### 2. Statistical Analysis & Word Frequency
+![Statistical Analysis](dashboard2.png)
+
+### 3. Real-Time Prediction Logs
+![Prediction Logs](dashboard3.png)
