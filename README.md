@@ -29,8 +29,8 @@ Models were evaluated using Accuracy, Precision, Recall, F1-Score, and Confusion
 
 ## 7. Dashboard Screenshots (Gösterge Paneli Ekran Görüntüleri)
 
-### 1. Main Interface & SVM Prediction (Ana Arayüz ve SVM Tahmini)
-![Main Interface](dashboard1.png)
+### 1. Main Interface, SVM Prediction & Model Comparison (Ana Arayüz, SVM Tahmini ve Model Karşılaştırma)
+![Main Interface and Model Comparison](dashboard1.png)
 
 ### 2. Word Frequency Analysis (Kelime Frekans Analizi)
 ![Word Frequency](dashboard2.png)
@@ -38,8 +38,5 @@ Models were evaluated using Accuracy, Precision, Recall, F1-Score, and Confusion
 ### 3. Real-Time SQL Prediction Logs (Gerçek Zamanlı Veritabanı Kayıtları)
 ![Prediction Logs](dashboard3.png)
 
-### 4. Multiple Machine Learning Models (Çoklu Makine Öğrenmesi Modelleri)
+### 4. Multiple Machine Learning Models (Çoklu Makine Öğrenmesi Modelleri Seçimi)
 ![Model Selection](dashboard4.png)
-
-### 5. Sentiment Distribution Overview (Duygu Dağılımı ve Sistem Genel Görünümü)
-![Sentiment Distribution](dashboard5.png)
