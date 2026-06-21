@@ -1,0 +1,11 @@
+# Dataset and Database
+*.bz2
+*.txt
+*.db
+
+# ML Models
+*.pkl
+
+# Python Cache
+__pycache__/
+*.pyc
